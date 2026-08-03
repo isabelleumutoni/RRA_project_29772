@@ -96,10 +96,8 @@ ORDER BY table_name;
 
 ### SQL Query Results
 
-**Add your screenshots here:**
-
-```markdown
-![Query Output 1](images/query-output-1.png)
+### querry 1
+![Query Output 1](screenshoots/query-querry1.png)
 
 ![Query Output 2](images/query-output-2.png)
 
